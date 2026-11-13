@@ -1,3 +1,9 @@
+# 依赖与构建产物
+node_modules/
+dist/
+coverage/
+.vitest/
+
 # 项目数据目录（IDE / 计划文档）
 .codebuddy/
 
